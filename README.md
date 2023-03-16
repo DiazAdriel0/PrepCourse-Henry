@@ -1,2 +1,3 @@
-# PrepCourse-Henry
-Este es un repositorio de prueba que estoy aprendiendo a hacer con el prep course de Henry
+Adriel Díaz
+
+Este proyecto es una prueba de como crear un repositorio y clonarlo desde GitHub a mi escritorio local
